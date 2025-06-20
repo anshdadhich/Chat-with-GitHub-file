@@ -12,7 +12,7 @@ or fork this repository by CintraAI from [here](https://github.com/CintraAI/code
 #### It will open a new tab in your web browser lik this - 
 #### ![Image](Image.png)
 
-#### then just give the username, repository name and file name and ask questions 
+#### then just enter username, repository name and file name and ask questions 
 
 ## Note: As of now it only works on the file that are not inside of any folder (just the files inside the repository)
 
