@@ -1,7 +1,7 @@
 ## To use this do the following steps
 #### 1. Open terminal and go the folder in which all of these files are present
 #### 2. pip install -r requirements.txt
-#### 3. Replace "YOUR API KEY" with your google gemini api key 
+#### 3. Replace "YOUR_API_KEY" with your google gemini api key 
 #### 4. now you can either <br> 
 download code chunker from [here](https://github.com/CintraAI/code-chunker/archive/refs/heads/main.zip)
 <br>
