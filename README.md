@@ -5,8 +5,8 @@
 #### 4. now you can either <br> 
 download code chunker from [here](https://github.com/CintraAI/code-chunker/archive/refs/heads/main.zip)
 <br>
+and extract the folder if downloaded and place the extracted folder where all the files are present <br> 
 or fork this repository by CintraAI from [here](https://github.com/CintraAI/code-chunker) 
-<br> and extract the folder if downloaded and place the extracted folder where all the files are present
 #### 5. open the app.py file in your code editor and run "streamlit run app.py"
 
 #### It will open a new tab in your web browser lik this - 
