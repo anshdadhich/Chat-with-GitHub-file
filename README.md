@@ -10,7 +10,7 @@ or fork this repository by CintraAI from [here](https://github.com/CintraAI/code
 #### 5. open the app.py file in your code editor and run "streamlit run app.py"
 
 #### It will open a new tab in your web browser lik this - 
-#### ![Image](image.png)
+#### ![Image](Image.png)
 
 #### then just give the username, repository name and file name and ask questions 
 
