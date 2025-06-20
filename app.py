@@ -8,14 +8,15 @@ from langchain.schema import Document
 
 st.set_page_config(layout = "wide")
 
-st.title("Chat with GitHub Repositories")
+st.title("Chat with GitHub Files")
+st.write("**Please press \"Enter\" after entering username**")
 
 with st.form("Form"):
     col1, col2, col3 = st.columns(3)
     
     with col1:
         username = st.text_input("Enter username : ")
-        
+
     with col2:     
         if username:
              repos = get_repos(username)
@@ -62,4 +63,5 @@ if submitted:
         st.write(response)
     
     except:
-        st.write("No file found for the given")
+        if file is not "":
+           st.write("No file found for the given")
